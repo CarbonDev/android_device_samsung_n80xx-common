@@ -16,7 +16,7 @@
 #
 
 # Inherit common Omni configurations
-$(call inherit-product, vendor/omni/config/common_tablet.mk)
+$(call inherit-product, vendor/carbon/config/common_tablet.mk)
 
 N80XX_COMMON := device/samsung/n80xx-common
 
