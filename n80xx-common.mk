@@ -48,7 +48,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     camera.exynos4 \
     libsecril-client \
-    GalaxyNoteTabSettings
+	GalaxyNoteTabSettings \
+	TVOutDummy
 
 #Charger
 PRODUCT_PACKAGES += \
